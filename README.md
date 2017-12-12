@@ -9,7 +9,10 @@
 <ul>
   <li>Sophmore</li>
   <li>Major in Statistics</li>
-  <li>come from South Korea</li>
-  <li>email: eunjung2@illinois.edu</li>
-  <li> <a href="https://www.facebook.com/kim.eunjung.9400">facebook account</a></li>
+  <li>Come from South Korea</li>
+  <li>Email: eunjung2@illinois.edu</li>
+  <li> <a href="https://www.facebook.com/kim.eunjung.9400">Facebook account</a></li>
 </ul>
+
+
+<h3>Experience</h3>
