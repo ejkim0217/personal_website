@@ -4,7 +4,7 @@
 
 
 
-<img src="pic.jpg" width="300" height="300">  <img src="pic2.jpg" width="350" height="300">
+<img src="pic.jpg" width="300" height="300">  <img src="pic2.jpg" width="450" height="400">
 <h3>About Me</h3>
 <ul>
   <li>Sophmore</li>
