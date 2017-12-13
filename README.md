@@ -16,3 +16,6 @@
 
 
 <h3>Experience</h3>
+
+<p2>a member of KSA</p2>
+<p1>KSA, Korean Student Association, is a RSO of University of Illinois that designs the events and provides job information for Korean students in UIUC. I have been a member of this RSO for two years. For freshman years, I was in finanacial team who managed and recorded all of the financial acitivies in KSA. In sophmore year, I'm now in corporate relations team that </p1>
